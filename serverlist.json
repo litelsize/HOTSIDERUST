@@ -2,13 +2,13 @@
   "Servers": {
     "Official": [
       {
-        "Address": "",
-        "Port": 11111,
+        "Address": "77.91.89.10",
+        "Port": 21920,
         "Tags": ""
       },
       {
-        "Address": "",
-        "Port": 11111,
+        "Address": "77.91.89.10",
+        "Port": 21920,
         "Tags": ""
       }
     ],
